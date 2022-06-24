@@ -3,8 +3,7 @@
 
 
 ## 🚀 project link
-https://github.com/lithhalim/auth-api
-
+https://github.com/lithhalim/airline-system
 ## how run
 ![](./assest/how%20run.png)
 
